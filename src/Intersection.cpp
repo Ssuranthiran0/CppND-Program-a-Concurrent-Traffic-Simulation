@@ -137,6 +137,8 @@ void Intersection::processVehicleQueue()
     }
 }
 
+/* Rubric Tip: Uncomment the code below to meet the specifications mentioned in the project*/
+
 bool Intersection::trafficLightIsGreen()
 {
    // please include this part once you have solved the final project tasks
